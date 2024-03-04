@@ -4,6 +4,6 @@
 
 ### Project Topic
 
-The objects loading supports the three load data types - Text, XML, and JSON.
+The objects loading supports the three load data types - Text, XML, and JSON.  
 Using the "C# Generic" idea makes the project code very concise and reusable.
 
