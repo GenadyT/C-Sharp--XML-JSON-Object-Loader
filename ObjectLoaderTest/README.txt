@@ -1,1 +1,0 @@
-﻿This WinForm project is a test for C# loadin objects engine - ObjectLoader.
