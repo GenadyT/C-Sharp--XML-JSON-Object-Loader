@@ -1,0 +1,22 @@
+<MusicGenres>
+	<Genre>
+		<ID>1</ID>
+		<Name>Classical</Name>
+	</Genre>
+	<Genre>
+		<ID>2</ID>
+		<Name>Heavy Metal</Name>
+	</Genre>
+	<Genre>
+		<ID>3</ID>
+		<Name>Rock</Name>
+	</Genre>
+	<Genre>
+		<ID>4</ID>
+		<Name>Pop</Name>
+	</Genre>
+	<Genre>
+		<ID>5</ID>
+		<Name>Country</Name>
+	</Genre>
+</MusicGenres>

@@ -1,0 +1,24 @@
+{
+  "MusicGenres": [
+		{
+			"ID": 1,
+			"Name": "Classical"
+		},
+		{
+			"ID": 2,
+			"Name": "Heavy Metal"
+		},
+		{
+			"ID": 3,
+			"Name": "Rock"
+		},
+		{
+			"ID": 4,
+			"Name": "Pop"
+		},
+		{
+			"ID": 5,
+			"Name": "Country"
+		}
+	]
+}
